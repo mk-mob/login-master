@@ -1,0 +1,7 @@
+{
+  "name": "login-master",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
